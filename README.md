@@ -35,7 +35,7 @@ AgroTechHub is a full-stack mobile application developed using Flutter for the f
 - **Frontend**:
   - **Flutter** for cross-platform mobile development.
   - **WebSocket** for real-time messaging.
-  - **Provider** for state management.
+  - **Bloc** for state management.
   - **image_picker** and **file_picker** for uploading images and files.
   - **video_player** for video streaming.
   - **Geolocator** for user location tracking.
